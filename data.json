@@ -1,4 +1,5 @@
 {
+  "exerciseType1": {
   "exerciseId": 1,
   "categoryId": 1,
   "isPremium": false,
@@ -51,4 +52,5 @@
     ],
     "tips": []
   }
+}
 }
