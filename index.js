@@ -14,7 +14,6 @@ const settings = { timestampsInSnapshots: true };
 firestore.settings(settings);
 
 if (data && (typeof data === "object")) {
-  // console.log(data)
   Object.keys(data).forEach(docKey => {
     console.log(data[docKey])
     // // firestore.collection(collectionKey).doc(docKey).set(data[docKey]).then((res) => { //uncomment to set docId yourself
