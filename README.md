@@ -24,4 +24,32 @@ A program that uploads JSON objects to firebase
 - To create my object i use http://www.objgen.com/json
 - If you are lucky enough to have a csv file use https://csvjson.com/csv2json to convert it to json
 
-- Please not that http://www.objgen.com/json does not work well with nested objects. So nest your JSON and copy paste them in after each other. If in doubt check out the data file in this project.
+- Please not that http://www.objgen.com/json does not work well with nested objects. So you need to nest your objects one extra time after using objgen. If in doubt check out the data file in this project.
+
+##### This is incorrect
+
+{
+"exerciseId": 1,
+"categoryId": 1,
+"isPremium": false,
+"duration": "5",
+"frequency": {
+"times": 3,
+"periodical": "3"
+},
+}
+
+##### This is correct
+
+{
+extraNest {
+"exerciseId": 1,
+"categoryId": 1,
+"isPremium": false,
+"duration": "5",
+"frequency": {
+"times": 3,
+"periodical": "3"
+},
+}
+}
