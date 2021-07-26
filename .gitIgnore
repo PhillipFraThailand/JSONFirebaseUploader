@@ -1,6 +1,8 @@
 *.key
 node_modules/**/*
 npm-debug.*
+serviceAccountKey.json
+
 # macOS
 .DS_Store
 coverage/\*\*/*

@@ -1,0 +1,27 @@
+{
+  "name": "jsonfirebaseuploader",
+  "version": "1.0.0",
+  "description": "uploads json objects to firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhillipFraThailand/JSONFirebaseUploader.git"
+  },
+  "keywords": [
+    "json",
+    "firebase",
+    "upload"
+  ],
+  "author": "phillip eismark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PhillipFraThailand/JSONFirebaseUploader/issues"
+  },
+  "homepage": "https://github.com/PhillipFraThailand/JSONFirebaseUploader#readme",
+  "dependencies": {
+    "firebase-admin": "^9.11.0"
+  }
+}
