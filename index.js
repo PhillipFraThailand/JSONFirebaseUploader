@@ -1,7 +1,7 @@
 const admin = require('./node_modules/firebase-admin');
 const serviceAccount = require("./serviceAccountKey.json");
 
-const data = require("./data.json");
+const data = require("./ThinkingTraps.json");
 const collectionKey = "exercises"; //collection name
 
 admin.initializeApp({
