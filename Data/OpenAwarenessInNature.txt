@@ -1,0 +1,64 @@
+http://www.objgen.com/json/models/igo5u
+
+OpenAwarenessInNature
+  categoryId n = 4
+  isPremium b = false
+  duration s = 20
+  frequency
+    times n = 1
+    periodical s = variable
+  difficulty n = 1
+  da
+    title s = ÅBEN OPÆRKSOMHED I NATUREN
+    categoryTitle s = Selvregulering
+    introduction s = Planlæg at gå en tur udenfor, alene. Forsøg at holde dig til den tid du har afsat, og ikke forkorte turen undervejs. Når du går:
+    purpose s = Forskning viser, at naturen virker beroligende på os og giver os en oplevelse af at være forbundet med noget, der er større end os selv. I en travl hverdag er vi ikke nødvendigvis opmærksomme på vores omgivelser eller naturen. Vores opmærksomhed er flygtig og vi bliver nemt distraheret af tanker eller vores smartphones. Herved går vi glip af muligheder for positive oplevelser og følelser, som opstår ved blot at være tilstede i nuet. At praktisere åben opmærksomhed er en metode til at bringe ro på nervesystemet, hjælper os til at få øje på smukke detaljer, nyde dufte og lyde, og værdsætte det enkelte øjeblik. 
+    reflection s = How much time to you spend in nature on a regular basis?
+    instructions[0]
+      hasNote b = false
+      instruction s = Prøv blot at registrere lydene omkring dig - uden at vurdere dem som gode eller dårlige
+    instructions[1]
+      hasNote b = false
+      instruction s = Læg mærke til dufte og temperaturforskelle
+    instructions[2]
+      hasNote b = false
+      instruction s = Læg mærke til fornemmelser i kroppen mens du går
+    instructions[3]
+      hasNote b = false
+      instruction s = Prøv at få øje på smukke elementer, fx fokusere på den betagende højde på et træ, lyset der reflekterer, farver der skifter i takt med skyer der driver forbi, duften af nyslået ​​græs eller blomster i flor...
+    instructions[4]
+      hasNote b = false
+      instruction s = Når du bemærker disse positive eller smukke elementer, så dvæl lidt ved dem, og lad dit sind registrere det i din bevidsthed
+     tips[0]
+       tip s = Læg din telefon væk, sæt den evt. på lydløs så du ikke bliver forstyrret
+     tips[1]
+       tip s = Undlad at høre musik eller at snakke med nogen
+     tips[2]
+       tip s = Prøv at undlade at planlægge, eller tænke på arbejde mens du går
+  en
+    title s = OPEN AWARENESS IN NATURE
+    categoryTitle s = Self-regulation
+    introduction s = Plan to go for a walk outside, alone. Try to stick to the time you have set aside, and do not shorten the trip along the way. While walking:
+    purpose s = Research has shown that nature has a calming effect on us and ignites a sense of being connected to something greater than ourselves. In our busy lives we are not necessarily aware of our surroundings and nature. Our attention is fleeting and we are easily distracted by thoughts, or our smartphones. In doing so we miss opportunities for positive experiences and feelings that arise from simply being present in the moment. Practicing open awareness is a method of calming the nervous system, being mindful and helping us be aware of beautiful details, enjoy scents and sounds, and appreciating each moment. 
+    reflection s = Have you noticed if there is a pattern of your Thinking traps? Do you have a “favorite” Thinking trap?
+    instructions[0]
+      hasNote b = false
+      instruction s = Try and notice the sounds around you – without labeling or judging them as good or bad
+    instructions[1]
+      hasNote b = false
+      instruction s = Notice scents and different or changes in temperature
+    instructions[2]
+      hasNote b = false
+      instruction s = Notice sensations in the body while walking
+    instructions[3]
+      hasNote b = false
+      instruction s = Try to notice the beautiful elements in your surroundings, such as focusing on the breathtaking height of a tree, light reflecting, colors that change as the clouds drifting past, the smell of freshly cut grass or flowers in bloom
+    instructions[4]
+      hasNote b = false
+      instruction s = When you notice these positive or beautiful elements, pause for a moment, dwell on it and let your mind register it in your consciousness.
+     tips[0]
+       tip s = Put your phone away, maybe even put it on mute so you are not disturbed.
+     tips[1]
+       tip s = Do not listen to music or talk to anyone.
+     tips[2]
+       tip s = Try not to plan or think about work while walking.

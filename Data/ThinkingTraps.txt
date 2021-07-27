@@ -1,0 +1,72 @@
+http://www.objgen.com/json/models/LBIs
+
+ThinkingTraps
+  categoryId n = 1
+  isPremium b = false
+  duration s = 5
+  frequency
+    times n = 3
+    periodical s = w
+  difficulty n = 1
+  da
+    title s = TANKEFÆLDER
+    categoryTitle s = Tænkning og problemløsning 
+    introduction s = Tænk på den situation du sidder fast i.  Er du faldet i en tankefælde? Overvej dine fortolkninger af situationen ved at gennemgå spørgsmål 1-7:
+    purpose s = En tankefælde er en negativ automatisk tanke. Det er en forvrængning af virkeligheden. De opstår især når vi kommer under pres. Tankefælder spænder ben for at du kan se nuancer. Forskning viser at du kan blive bedre til at opdage dine tankefælder, og det gør dig mere robust.
+    reflection s = Har du lagt mærke til, om der er et mønster i dine tankefælder? Har du en ”yndlingstankefælde”?
+    instructions[0]
+      hasNote b = false
+      instruction s = Er det en forhastet konklusion? Spørg dig selv, om der noget bevis for at tingene hænger sådan sammen?
+    instructions[1]
+      hasNote b = false
+      instruction s = Har du fået tunnelsyn? Spørg dig selv, om der noget du har overset?
+    instructions[2]
+      hasNote b = false
+      instruction s = Har du gjort problemet større/mindre end det er? Overvej hvad er det værste/det bedste der kan ske i situationen?
+    instructions[3]
+      hasNote b = false
+      instruction s = Giver du dig selv hele ansvaret for situationen/bebrejder du dig selv? Spørg dig selv, er der noget i ligningen du glemt? Hvad har andre bidraget med?
+    instructions[4]
+      hasNote b = false
+      instruction s = Giver du andre hele ansvaret for situationen/bebrejder du andre? Spørg dig selv, om der er noget i ligningen du har glemt? Hvad har andre bidraget med?
+    instructions[5]
+      hasNote b = true
+      instruction s = Har du over-generaliseret? Spørg dig selv, er der undtagelser/er det altid sådan?
+    instructions[6]
+      hasNote b = false
+      instruction s = Tror du at kan læse andres tanker? Eller tror du at andre kan læse dine tanker? Overvej: Har du spurgt andre om, hvad de tænker? Eller har du udtrykt dine egne tanker tydeligt?
+    instructions[7]
+      hasNote b = true
+      instruction s = Hvilken eller hvilke tankefælder faldt du i? Noter
+    tips[]
+  en
+    title s = THINKING TRAPS
+    categoryTitle s = Thinking and problem-solving
+    introduction s = Think of a situation where you feel stuck or challenged. Have you fallen into a thinking trap? Consider your interpretations of the situation by reviewing questions 1-7:
+    purpose s = Thinking traps are patterns of thought – usually with a negative swing – which prevent us from seeing things as they really are. Otherwise known as cognitive distortions. They occur especially when we are under pressure. Thinking traps makes it difficult for you to see nuances. Research shows that you can become more resilient by detecting your thinking traps.
+    reflection s = Have you noticed if there is a pattern of your Thinking traps? Do you have a “favorite” Thinking trap?
+    instructions[0]
+      hasNote b = false
+      instruction s = Have you jumped to a conclusion? Ask yourself if there is any evidence that things are really so?
+    instructions[1]
+      hasNote b = false
+      instruction s = Have you gotten tunnel vision? Ask yourself, if there are something you missed?
+    instructions[2]
+      hasNote b = false
+      instruction s = Have you magnified or minimized the problem? Ask yourself, what is the worst likely/best likely scenario?
+    instructions[3]
+      hasNote b = false
+      instruction s = Are you personalizing – have you attributed all the responsibility for the given situation to yourself/are only you to blame? Ask yourself, is there anything in the equation you might have overlooked? E.g., What have others contributed with?
+    instructions[4]
+      hasNote b = false
+      instruction s = Are you externalizing – have you attributed all the responsibility for the given situation to everyone else? Ask yourself, is there anything in the equation you might have overlooked? E.g., What is your own contribution?
+    instructions[5]
+      hasNote b = true
+      instruction s = Are you overgeneralizing? Ask yourself, could there be any exceptions/Is it always like that?
+    instructions[6]
+      hasNote b = false
+      instruction s = Did you practice mind reading? / Do you believe other people can read you mind? Consider this: Have you asked what they were thinking? / Did you actually express your thoughts?
+    instructions[7]
+      hasNote b = false
+      instruction s = Note what Thinking traps have you fallen into
+    tips[]

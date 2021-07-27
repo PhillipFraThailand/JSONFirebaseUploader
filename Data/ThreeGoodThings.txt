@@ -1,0 +1,60 @@
+http://objgen.com/json/models/d2x
+
+ThreeGoodThings
+  categoryId n = 2
+  isPremium b = false
+  duration s = 5
+  frequency
+    times n = 3
+    periodical s = w
+  difficulty n = 1
+  da
+    title s = 3 GODE TING
+    categoryTitle s = Positive følelser 
+    introduction s = Gode ting er defineret ved, at de har givet anledning til positive følelser. Det kan både være store og små ting. Skriv 3 gode ting ned, du har oplevet i dag, og hvorfor det føltes godt og hvordan du selv bidrog.
+    purpose s = Vores hjerne er forud programmet til først og fremmest at være opmærksom på alt det, der kan være farligt og true vores overlevelse. Dette kaldes negativitetsbias og betyder at negative tanker og følelser fylder mest i vores bevidsthed. Forskning viser, at vi kan træne vores evne til at være mere opmærksom på gode ting vi oplever, og som giver anledning til positive følelser. Ved at fastholde og kultivere positive følelser, bliver vi mere robuste. 
+    reflection s = Har du prøvet at fortælle dine nærmeste om de tre gode ting?
+    instructions[0]
+      hasNote b = true
+      instruction s = En god ting der skete i dag var
+    instructions[1]
+      hasNote b = true
+      instruction s = Hvorfor var det en god ting? Og hvordan bidrog du selv
+    instructions[2]
+      hasNote b = true
+      instruction s = En god ting der skete i dag var
+    instructions[3]
+      hasNote b = true
+      instruction s = Hvorfor var det en god ting? Og hvordan bidrog du selv
+    instructions[4]
+      hasNote b = true
+      instruction s = En god ting der skete i dag var
+    instructions[5]
+      hasNote b = true
+      instruction s = Hvorfor var det en god ting? Og hvordan bidrog du selv
+    tips[]
+  en
+    title s = THREE GOOD THINGS
+    categoryTitle s = Positive Emotions
+    introduction s = Good thing are defined as experiences that leads to positive emotions, like joy, gratitude and connection. The items can be small, everyday events or more important milestones. Write down 3 things that went well for you today, and provide an explanation for why they went well and how you contributed to make it happen:
+    purpose s = Our brain is wired to primarily focus on and pay attention to all the things that could be perceived as dangerous or a threat to our survival. This is called negativity bias and entails that negative thoughts and emotions takes up more of our attention than the positive. In our day-to-day lives, it's easy to get caught up in the things that go wrong and feel like we're living under our own private rain cloud; at the same time, we tend to adapt to the good things and people in our lives, taking them for granted. Although emotions like disappointment are natural and serve an important purpose, it can be draining to focus all our attention on them. Research has shown that we can train our ability to focus on positive events, that leads to positive emotions. By doing so, we cultivate positive emotions and become more resilient. 
+    reflection s = Try sharing the three good things with your family or a close friend… tell them about it!
+    instructions[0]
+      hasNote b = true
+      instruction s = A good thing that happened today was
+    instructions[1]
+      hasNote b = true
+      instruction s = Why was it a good thing? And how did you contribute?
+    instructions[2]
+      hasNote b = true
+      instruction s = A good thing that happened today was
+    instructions[3]
+      hasNote b = true
+      instruction s = Why was it a good thing? And how did you contribute?
+    instructions[4]
+      hasNote b = true
+      instruction s = A good thing that happened today was
+    instructions[5]
+      hasNote b = true
+      instruction s = Why was it a good thing? And how did you contribute?
+    tips[]

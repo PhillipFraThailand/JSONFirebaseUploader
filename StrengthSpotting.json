@@ -1,0 +1,48 @@
+{
+  "StrengthSpotting": {
+    "categoryId": 5,
+    "isPremium": false,
+    "duration": "15",
+    "frequency": {
+      "times": 1,
+      "periodical": "w"
+    },
+    "difficulty": 2,
+    "da": {
+      "title": "STYRKESPOTTING 1",
+      "categoryTitle": "Relationer",
+      "introduction": "Læg mærke til to styrker hos personer, fx i en bog du læser, på tv, i en film, på Youtube, Facebook, tweets eller i andre medier.",
+      "purpose": "Et vigtigt skridt i retning af at bruge egne signaturstyrker effektivt er, at kunne observere styrker hos andre. De fleste mennesker finder det lettere at observere og genkende andres styrker, fremfor at genkende egne styrker. Først og fremmest hjælper denne øvelse dig med at blive mere opmærksom på andres menneskers styrker. Derudover hjælper øvelsen dig med at opbygge et ”styrkesprog” – du bliver bedre til at sætte ord på de styrker, du ser hos andre. Sidst men ikke mindst styrker øvelsen din evne til at værdsætte andres styrker. Det er en positiv oplevelse for såvel den, som genkender styrker hos den anden, som den der modtager feedback på den observerede styrke(r).",
+      "reflection": "How do you feel about spotting strengths in others? Is it difficult or easy to do?",
+      "instructions": [
+        {
+          "hasNote": true,
+          "instruction": "Noter minimum 2 styrker på en bestemt person"
+        },
+        {
+          "hasNote": true,
+          "instruction": "Beskriv kort, hvordan de to styrker kom til udtryk"
+        }
+      ],
+      "tips": []
+    },
+    "en": {
+      "title": "STRENGTHS SPOTTING 1",
+      "categoryTitle": "Strengths",
+      "introduction": "Notice strengths in characters or people, for example in a book you read, on TV, in a movie, on Youtube, Facebook, tweets or in other media.",
+      "purpose": "An important step towards using one's own strengths effectively is being able to observe strengths in others. Most people find it easier to observe and recognize the strengths of others, rather than to recognize their own strengths. This exercise helps you become more aware of how strengths are expressed, by observing them in other people. In addition, the exercise helps you build a \"strength language\" - you become better at putting into words the strengths you see in others. The exercise also strengthens your ability to appreciate the strengths of others. It is a positive experience for both the one who recognizes the strengths in others and the one who receives feedback on the observed strength(s).",
+      "reflection": "Have you noticed how the gift of time affects your relationships? Is there someone who you might need to spend some more time with?",
+      "instructions": [
+        {
+          "hasNote": true,
+          "instruction": "Write down a minimum of 2 strengths of a particular person"
+        },
+        {
+          "hasNote": true,
+          "instruction": "Briefly describe how the two strengths were expressed"
+        }
+      ],
+      "tips": []
+    }
+  }
+}

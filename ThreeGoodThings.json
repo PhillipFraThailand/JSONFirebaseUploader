@@ -1,11 +1,11 @@
 {
-  "Positive Emotions": {
+  "ThreeGoodThings": {
     "categoryId": 2,
     "isPremium": false,
     "duration": "5",
     "frequency": {
-      "times": 1,
-      "periodical": "d"
+      "times": 3,
+      "periodical": "w"
     },
     "difficulty": 1,
     "da": {
@@ -16,34 +16,31 @@
       "reflection": "Har du prøvet at fortælle dine nærmeste om de tre gode ting?",
       "instructions": [
         {
-          "instruction": [
-            {
-              "hasNote": true,
-              "instruction": "En god ting der skete i dag var"
-            },
-            {
-              "hasNote": true,
-              "instruction": "Hvorfor var det en god ting? Og hvordan bidrog du selv"
-            },
-            {
-              "hasNote": true,
-              "instruction": "En god ting der skete i dag var"
-            },
-            {
-              "hasNote": true,
-              "instruction": "Hvorfor var det en god ting? Og hvordan bidrog du selv"
-            },
-            {
-              "hasNote": true,
-              "instruction": "En god ting der skete i dag var"
-            },
-            {
-              "hasNote": true,
-              "instruction": "Hvorfor var det en god ting? Og hvordan bidrog du selv"
-            }
-          ]
+          "hasNote": true,
+          "instruction": "En god ting der skete i dag var"
+        },
+        {
+          "hasNote": true,
+          "instruction": "Hvorfor var det en god ting? Og hvordan bidrog du selv"
+        },
+        {
+          "hasNote": true,
+          "instruction": "En god ting der skete i dag var"
+        },
+        {
+          "hasNote": true,
+          "instruction": "Hvorfor var det en god ting? Og hvordan bidrog du selv"
+        },
+        {
+          "hasNote": true,
+          "instruction": "En god ting der skete i dag var"
+        },
+        {
+          "hasNote": true,
+          "instruction": "Hvorfor var det en god ting? Og hvordan bidrog du selv"
         }
-      ]
+      ],
+      "tips": []
     },
     "en": {
       "title": "THREE GOOD THINGS",
@@ -53,32 +50,28 @@
       "reflection": "Try sharing the three good things with your family or a close friend… tell them about it!",
       "instructions": [
         {
-          "instruction": [
-            {
-              "hasNote": true,
-              "instruction": "A good thing that happened today was"
-            },
-            {
-              "hasNote": true,
-              "instruction": "Why was it a good thing? And how did you contribute?"
-            },
-            {
-              "hasNote": true,
-              "instruction": "A good thing that happened today was"
-            },
-            {
-              "hasNote": true,
-              "instruction": "Why was it a good thing? And how did you contribute?"
-            },
-            {
-              "hasNote": true,
-              "instruction": "A good thing that happened today was"
-            },
-            {
-              "hasNote": true,
-              "instruction": "Why was it a good thing? And how did you contribute?"
-            }
-          ]
+          "hasNote": true,
+          "instruction": "A good thing that happened today was"
+        },
+        {
+          "hasNote": true,
+          "instruction": "Why was it a good thing? And how did you contribute?"
+        },
+        {
+          "hasNote": true,
+          "instruction": "A good thing that happened today was"
+        },
+        {
+          "hasNote": true,
+          "instruction": "Why was it a good thing? And how did you contribute?"
+        },
+        {
+          "hasNote": true,
+          "instruction": "A good thing that happened today was"
+        },
+        {
+          "hasNote": true,
+          "instruction": "Why was it a good thing? And how did you contribute?"
         }
       ],
       "tips": []

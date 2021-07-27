@@ -1,0 +1,76 @@
+{
+  "TheGiftOfTime": {
+    "categoryId": 3,
+    "isPremium": false,
+    "duration": "5",
+    "frequency": {
+      "times": 3,
+      "periodical": "w"
+    },
+    "difficulty": 2,
+    "da": {
+      "title": "TIDSGAVEN",
+      "categoryTitle": "Relationer",
+      "introduction": "Tænk på en person der betyder noget for dig",
+      "purpose": "I vores travle hverdag kommer vi let til at forsømme kvalitetstid med vores nærmeste pga. arbejde og forpligtelser. Det kan føre til fortrydelse, når fx et venskab glider ud, når man melder fra til vigtige begivenheder i ens børns liv, når man ikke får prioriteret samvær med familiens ældste. Tid er en gave, vi kan give til hinanden – både når vi mødes og når vi gør noget for hinanden. Når vi prioriterer at bruge tid på hinanden, styrker vi vores relationer. Det er en kærlig og venlig handling, der både er godt for os selv og for andre.",
+      "reflection": "Har du lagt mærke til hvad Tidsgaven betyder for dine relationer?",
+      "instructions": [
+        {
+          "hasNote": false,
+          "instruction": "Overvej, hvordan du kan give din tid til denne person, enten ved at mødes, eller ved at du gør noget for personen."
+        },
+        {
+          "hasNote": false,
+          "instruction": "Planlæg, hvornår du vil give din tid."
+        },
+        {
+          "hasNote": true,
+          "instruction": "Noter"
+        }
+      ],
+      "tips": [
+        {
+          "tip": "En ”tidsgave” kan fx indbefatte: Et besøg, noget I gør sammen, at du lytter til den anden, at udføre en tjeneste for den anden"
+        },
+        {
+          "tip": "Hvis din ”tidsgave” er noget du foretager dig alene, så undlad at fortælle modtageren hvor lang tid du har brugt – lad ”tidsgaven” tale for sig selv"
+        },
+        {
+          "tip": "Brug så meget tid, der er behov for på denne “tidsgave”. Undgå at skære hjørner."
+        }
+      ]
+    },
+    "en": {
+      "title": "THE GIFT OF TIME",
+      "categoryTitle": "Relationships",
+      "introduction": "Think of a person that is dear to you",
+      "purpose": "In our busy lives, we can easily neglect to spend quality time with our loved ones due to work and obligations. It can lead to regret when, for example a friendship fades away, when you miss out on important events in your children's lives, when you do not prioritize visiting the elderly family members. Time is a gift we give each other - both when we meet and when we do something for each other. When we prioritize spending time with each other, we strengthen our relationships. It is a loving and kind act that is good for ourselves as well as others.",
+      "reflection": "Have you noticed how the gift of time affects your relationships? Is there someone who you might need to spend some more time with?",
+      "instructions": [
+        {
+          "hasNote": false,
+          "instruction": "Consider how you can give the gift of time to this person, either by sending time together or by doing something for them"
+        },
+        {
+          "hasNote": false,
+          "instruction": "Plan and set a time and date for when you will give the gift of time"
+        },
+        {
+          "hasNote": true,
+          "instruction": "Note"
+        }
+      ],
+      "tips": [
+        {
+          "tip": "A gift of time can be: Paying a visit, doing something together, actively listening to the other person, doing something for the other person"
+        },
+        {
+          "tip": "If you gift of time is something you do on your own for the other person, then don’t tell the other person how long time you spend on it, let the gift speak for itself"
+        },
+        {
+          "tip": "Use as much time as needed on the gift of time, don’t cut corners."
+        }
+      ]
+    }
+  }
+}
